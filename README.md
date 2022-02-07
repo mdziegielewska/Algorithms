@@ -1,1 +1,5 @@
-Zbiór algorytmów numerycznych, symbolicznych, związanych z procesami w systemie, a także kryptograficznych.
+<b>PL</b><br>
+Zbiór algorytmów poznanych przez 4 lata studiów
+
+<b>ENG</b><br>
+A collection of algorithms learned during the 4 years of university.
