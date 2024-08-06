@@ -1,5 +1,5 @@
-<b>PL</b><br>
-Zbiór algorytmów poznanych przez 4 lata studiów
+Repository containing a collection of algorithms and data structures implemented during university studies. Covers numerical methods, cryptography, operating system concepts, and fundamental algorithmic techniques.
 
-<b>ENG</b><br>
-A collection of algorithms learned during the 4 years of university.
+**Technologies Used:**
+- Python
+- C++
